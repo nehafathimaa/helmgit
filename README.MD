@@ -48,7 +48,7 @@ java -XX:+UseParallelGC -jar tinygit-x.x.x.jar
  - Working with tags
  - Automatic squashing of feature branches
  - Automatic reset if a branch diverged from remote branch
- - Repository statistics
+ - Repository statistics.
 
 ### Missing Features
 
